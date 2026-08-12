@@ -31,7 +31,7 @@ A **Decision Tree** model is used to predict the class of modes that is most lik
 Based on the prediction, the encoder can avoid evaluating mode classes that are less likely to be selected as optimal, reducing the number of rate-distortion optimization (RDO) evaluations and, consequently, the encoding time.
 
 <p align="center">
-  <img src="figures/solution.png" alt="Overview of the proposed solution" width="700">
+  <img src="figures/solution.png" alt="Overview of the proposed solution" width="500">
 </p>
 
 <p align="center">
